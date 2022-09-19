@@ -1,4 +1,4 @@
-package com.redseal.ecommerce;
+package net.redseal.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
